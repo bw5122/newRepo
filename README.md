@@ -1,1 +1,3 @@
 # newRepo
+
+commit 1
